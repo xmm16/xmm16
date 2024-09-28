@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @64XN
+- 👀 I’m interested in computers, cybersecurity, low-level development and web development!
+- 🌱 I’m currently learning Rust, C/C++, JavaScript and TypeScript.
+- 💞️ I’m looking to collaborate on web-related projects and security-related projects.
+- 📫 How to reach me, nowhere.
+- 😄 Pronouns: Any pronouns
+- ⚡ Fun fact: OpenBSD is great!
